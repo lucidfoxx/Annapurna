@@ -1,0 +1,6 @@
+{
+  "name": "SharePlate",
+  "description": "SharePlate connects surplus food with the people and communities who need it.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
