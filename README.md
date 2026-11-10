@@ -79,3 +79,4 @@ npm run dev
 | `/admin/notifications` | **Announcements** | Broadcast targeted or platform-wide notifications to Donors, NGOs, Volunteers, or specific users |
 | `/admin/settings` | **Platform Settings** | Manage platform name, support contact, default expiry window, notification toggles, registration policy, and maintenance mode |
 Full Stop , Lowl
+crazy
