@@ -8,7 +8,6 @@ ANNAPURNA connects **Food Donors**, **NGOs / Recipients**, **Volunteers**, and *
 
 - `/frontend` — Standalone Vite + React 19 + Tailwind CSS v4 frontend application (mirrored in `/src` for the integrated full-stack runner).
 - `/backend` — FastAPI + SQLAlchemy 2.0 + MySQL (PyMySQL) + Alembic + JWT (`uv` managed) backend with modular Admin Platform Governance routers.
-- `/server.ts` — Integrated Express + Vite preview server on port `3000` for live previewing.
 
 ---
 
